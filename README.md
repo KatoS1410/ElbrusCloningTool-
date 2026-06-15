@@ -41,7 +41,7 @@ These archives are expected to contain container data and system configuration s
 
 Run the script with Python 3:
 
-python3 restore.py /path/to/backup_directory
+python3 ECT.py /path/to/backup_directory
 
 If no path is provided, the script will prompt for input interactively.
 
